@@ -4,6 +4,7 @@ import 'package:video_player/video_player.dart';
 //import 'package:barinya/main.dart';
 // import 'package:barinya/pages/video/video-list.dart';
 // import 'package:http/http.dart' as http;
+//просто для настройки гита
 
 class VideoPlayerScreen extends StatefulWidget {
   const VideoPlayerScreen({Key? key}) : super(key: key);
